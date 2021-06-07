@@ -22,7 +22,7 @@
 [![Linkedin](https://img.shields.io/badge/-Instagram-000?&logo=Linkedin)](https://www.linkedin.com/in/marcospca)
 [![Twitter](https://img.shields.io/badge/-@m4rcos_azevedo-000?&logo=Twitter)](https://twitter.com/m4rcos_azevedo)
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=m4rcosazevedo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcosazevedo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=30&exclude_repo=real-time-image-tracking,telegram-react&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=m4rcosazevedo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcosazevedo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=30&exclude_repo=real-time-image-tracking,telegram-react&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 
 
