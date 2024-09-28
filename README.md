@@ -1,4 +1,10 @@
 ## 👋 Saudações! I'm Marcos
+
+Meus artigos
+
+[![@m4rcos.azevedo](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@m4rcos.azevedo)
+
+## Sobre mim
 Com uma sólida trajetória desde 2008 como Desenvolvedor Web, concentro minha expertise em projetos de grande porte, destacando-se pela maestria em programação funcional, POO, e profundo conhecimento em linguagens como Javascript e PHP (especialmente Laravel). Sou um profissional versátil com amplo domínio em Front-End, destacando-me em Javascript, Typescript, ReactJS, NextJS, HTML e CSS.
 
 Minha experiência abrange também o universo dos bancos de dados, como MySQL, PostgreSQL, SQL Server e Redis. Além disso, possuo habilidades sólidas em práticas DevOps, utilizando ferramentas como Docker, AWS e Git para otimizar o ciclo de desenvolvimento.
