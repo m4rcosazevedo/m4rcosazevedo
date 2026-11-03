@@ -8,6 +8,21 @@
 
 <div align="center">
 
+<img src="assets/title-sites.svg" alt="No ar: dois endereços em produção" width="100%"/>
+
+<p align="center">
+  <a href="https://minhacolecao.app"><img src="assets/site-minhacolecao.svg" width="49%" alt="minhacolecao.app: Minha Coleção, organize, valorize e compartilhe suas coleções"/></a>
+  <a href="https://marcospca.com.br"><img src="assets/site-marcospca.svg" width="49%" alt="marcospca.com.br: meu endereço pessoal, hoje leva ao Minha Coleção"/></a>
+</p>
+
+<br/>
+
+<img src="assets/title-security.svg" alt="Segurança desde a primeira linha" width="100%"/>
+
+<img src="assets/security.svg" alt="Painel de segurança de minhacolecao.app com HTTPS obrigatório, política de conteúdo restrita, proteção contra clickjacking e permissões mínimas" width="100%"/>
+
+<br/>
+
 <img src="assets/title-trace.svg" alt="Uma requisição, ponta a ponta" width="100%"/>
 
 <img src="assets/trace.svg" alt="Uma requisição atravessa interface, infraestrutura, API e dados, em barras aninhadas" width="100%"/>
