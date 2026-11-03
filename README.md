@@ -17,13 +17,9 @@
 
 <img src="assets/security.svg" alt="Painel de segurança de minhacolecao.app com HTTPS obrigatório, política de conteúdo restrita, proteção contra clickjacking e permissões mínimas" width="100%"/>
 
-<img src="assets/title-trace.svg" alt="Uma requisição, ponta a ponta" width="100%"/>
+<img src="assets/title-trace.svg" alt="Uma requisição, ponta a ponta: quatro camadas, uma pessoa que entende todas" width="100%"/>
 
-<img src="assets/trace.svg" alt="Uma requisição atravessa interface, infraestrutura, API e dados, em barras aninhadas" width="100%"/>
-
-<img src="assets/title-stack.svg" alt="A stack inteira" width="100%"/>
-
-<img src="assets/stack.svg" alt="Tecnologias por camada: interface, API e servidor, dados, infra e qualidade" width="100%"/>
+<img src="assets/trace.svg" alt="Uma requisição atravessa interface, infraestrutura, API e dados, e cada camada lista as tecnologias usadas" width="100%"/>
 
 <br/><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4rcosazevedo/m4rcosazevedo/output/github-contribution-grid-snake-dark.svg">
