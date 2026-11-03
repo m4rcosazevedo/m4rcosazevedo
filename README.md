@@ -8,6 +8,12 @@
 
 <div align="center">
 
+<img src="assets/title-trace.svg" alt="Uma requisição, ponta a ponta" width="100%"/>
+
+<img src="assets/trace.svg" alt="Uma requisição atravessa interface, infraestrutura, API e dados, em barras aninhadas" width="100%"/>
+
+<br/>
+
 <img src="assets/title-stack.svg" alt="A stack inteira" width="100%"/>
 
 <img src="assets/stack.svg" alt="Tecnologias por camada: interface, API e servidor, dados, infra e qualidade" width="100%"/>
