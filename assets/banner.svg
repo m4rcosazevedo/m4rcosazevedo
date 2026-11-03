@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
+  <title id="t">Marcos Azevedo</title>
+  <desc id="d">Desenvolvedor Web Full Stack, especialista em Front-end, React, TypeScript e Laravel</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#151b3a"/>
+    </linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#a371f7" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#a371f7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#glow)"/>
+
+  <!-- janela de código decorativa -->
+  <g transform="translate(790 50)" opacity="0.95">
+    <rect width="340" height="220" rx="12" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="22" cy="22" r="6" fill="#ff5f56"/>
+    <circle cx="42" cy="22" r="6" fill="#ffbd2e"/>
+    <circle cx="62" cy="22" r="6" fill="#27c93f"/>
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">
+      <text x="24" y="66"><tspan fill="#ff7b72">const</tspan> <tspan fill="#d2a8ff">marcos</tspan> <tspan fill="#c9d1d9">= {</tspan></text>
+      <text x="44" y="94"><tspan fill="#79c0ff">desde</tspan><tspan fill="#c9d1d9">:</tspan> <tspan fill="#a5d6ff">2008</tspan><tspan fill="#c9d1d9">,</tspan></text>
+      <text x="44" y="122"><tspan fill="#79c0ff">front</tspan><tspan fill="#c9d1d9">:</tspan> <tspan fill="#a5d6ff">"React · TS · Next"</tspan><tspan fill="#c9d1d9">,</tspan></text>
+      <text x="44" y="150"><tspan fill="#79c0ff">back</tspan><tspan fill="#c9d1d9">:</tspan> <tspan fill="#a5d6ff">"Laravel · Node"</tspan><tspan fill="#c9d1d9">,</tspan></text>
+      <text x="44" y="178"><tspan fill="#79c0ff">foco</tspan><tspan fill="#c9d1d9">:</tspan> <tspan fill="#a5d6ff">"qualidade + IA"</tspan></text>
+      <text x="24" y="198" fill="#c9d1d9">};</text>
+    </g>
+  </g>
+
+  <g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="72" y="92" font-size="20" fill="#8b949e" letter-spacing="4">OLÁ, EU SOU</text>
+    <text x="72" y="168" font-size="68" font-weight="700" fill="url(#ac)">Marcos Azevedo</text>
+    <text x="72" y="216" font-size="26" fill="#e6edf3">Desenvolvedor Web Full Stack</text>
+    <text x="72" y="254" font-size="18" fill="#8b949e">Front-end de alta escala · Laravel · Arquitetura · Performance · IA aplicada</text>
+    <rect x="72" y="276" width="120" height="4" rx="2" fill="url(#ac)"/>
+  </g>
+</svg>
