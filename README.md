@@ -14,21 +14,6 @@
 
 <br/><br/>
 
-<img src="assets/title-projects.svg" alt="Projetos públicos" width="100%"/>
-
-<p align="center">
-  <a href="https://github.com/m4rcosazevedo/notch-win"><img src="assets/cards/notch-win.svg" width="49%" alt="notch-win"/></a>
-  <a href="https://github.com/m4rcosazevedo/game-collection"><img src="assets/cards/game-collection.svg" width="49%" alt="game-collection"/></a>
-  <a href="https://github.com/m4rcosazevedo/react-pagination"><img src="assets/cards/react-pagination.svg" width="49%" alt="react-pagination"/></a>
-  <a href="https://github.com/m4rcosazevedo/intersection-observer-with-react"><img src="assets/cards/intersection-observer-with-react.svg" width="49%" alt="intersection-observer-with-react"/></a>
-  <a href="https://github.com/m4rcosazevedo/designer-pattern-build-and-composite"><img src="assets/cards/designer-pattern-build-and-composite.svg" width="49%" alt="designer-pattern-build-and-composite"/></a>
-  <a href="https://github.com/m4rcosazevedo/mac-config-wizard"><img src="assets/cards/mac-config-wizard.svg" width="49%" alt="mac-config-wizard"/></a>
-</p>
-
-<sub>Boa parte do que construo hoje, como plataformas full stack e orquestração de agentes de IA, está em repositórios privados.</sub>
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4rcosazevedo/m4rcosazevedo/output/github-contribution-grid-snake-dark.svg">
   <img alt="Gráfico de contribuições em formato de cobrinha" src="https://raw.githubusercontent.com/m4rcosazevedo/m4rcosazevedo/output/github-contribution-grid-snake.svg" width="100%">
