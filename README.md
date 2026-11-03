@@ -4,8 +4,6 @@
 
 </div>
 
-<br/>
-
 <div align="center">
 
 <img src="assets/title-sites.svg" alt="No ar: dois endereços em produção" width="100%"/>
@@ -15,36 +13,24 @@
   <a href="https://marcospca.com.br"><img src="assets/site-marcospca.svg" width="49%" alt="marcospca.com.br: meu endereço pessoal, hoje leva ao Minha Coleção"/></a>
 </p>
 
-<br/>
-
 <img src="assets/title-security.svg" alt="Segurança desde a primeira linha" width="100%"/>
 
 <img src="assets/security.svg" alt="Painel de segurança de minhacolecao.app com HTTPS obrigatório, política de conteúdo restrita, proteção contra clickjacking e permissões mínimas" width="100%"/>
-
-<br/>
 
 <img src="assets/title-trace.svg" alt="Uma requisição, ponta a ponta" width="100%"/>
 
 <img src="assets/trace.svg" alt="Uma requisição atravessa interface, infraestrutura, API e dados, em barras aninhadas" width="100%"/>
 
-<br/>
-
 <img src="assets/title-stack.svg" alt="A stack inteira" width="100%"/>
 
 <img src="assets/stack.svg" alt="Tecnologias por camada: interface, API e servidor, dados, infra e qualidade" width="100%"/>
 
-<br/><br/>
-
-<picture>
+<br/><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4rcosazevedo/m4rcosazevedo/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Gráfico de contribuições em formato de cobrinha" src="https://raw.githubusercontent.com/m4rcosazevedo/m4rcosazevedo/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="Gráfico de contribuições em formato de cobrinha" src="https://raw.githubusercontent.com/m4rcosazevedo/m4rcosazevedo/output/github-contribution-grid-snake.svg" width="70%">
 </picture>
 
-<br/><br/>
-
-<img src="assets/contact.svg" alt="Tem uma ideia para tirar do papel? Aberto a novas oportunidades, parcerias e boas conversas técnicas." width="100%"/>
-
-<br/>
+<br/><img src="assets/contact.svg" alt="Tem uma ideia para tirar do papel? Aberto a novas oportunidades, parcerias e boas conversas técnicas." width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcospca-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=15111F)](https://www.linkedin.com/in/marcospca)
 [![Medium](https://img.shields.io/badge/Medium-artigos-6D28D9?style=for-the-badge&logo=medium&logoColor=white&labelColor=15111F)](https://medium.com/@m4rcos.azevedo)
